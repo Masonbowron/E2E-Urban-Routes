@@ -27,6 +27,9 @@ module.exports = {
     cardPaymentMethodIcon: 'img[alt="card"]',
     iceCreamValue: ' .counter .counter-value',
     driverComment: '#comment',
+    supportClassTest: ' div > div.r-sw-label',
+    addressFilled: ' div.tariff-cards > div.tcard.active > div.tcard-icon > img',
+    finalOrderCheck:'div.order-button > img',
     // sliders
     blanketHank: ' div > div.r-sw > div > span',
     // FunctionsS
